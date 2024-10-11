@@ -1,0 +1,21 @@
+<script src="{{asset('user-assets/js/jquery-3.7.1.min.js')}}"></script>
+<script src="{{asset('user-assets/js/bootstrap.bundle.min.js')}}"></script>
+<script src="{{asset('user-assets/js/swiper-bundle.min.js')}}"></script>
+<script src="{{asset('user-assets/js/aos.js')}}"></script>
+<script src="{{asset('user-assets/js/wow.min.js')}}"></script>
+<script src="{{asset('user-assets/js/headhesive.min.js')}}"></script>
+<script src="{{asset('user-assets/js/smart-stick-nav.js')}}"></script>
+<script src="{{asset('user-assets/js/jquery.magnific-popup.min.js')}}"></script>
+<script src="{{asset('user-assets/js/gsap.min.js')}}"></script>
+<script src="{{asset('user-assets/js/imagesloaded.pkgd.min.js')}}"></script>
+<script src="{{asset('user-assets/js/isotope.pkgd.min.js')}}"></script>
+<script src="{{asset('user-assets/js/ScrollToPlugin.min.js')}}"></script>
+<script src="{{asset('user-assets/js/ScrollTrigger.min.js')}}"></script>
+<script src="{{asset('user-assets/js/jquery.carouselTicker.min.js')}}"></script>
+<script src="{{asset('user-assets/js/jquery.odometer.min.js')}}"></script>
+<script src="{{asset('user-assets/js/jquery.appear.js')}}"></script>
+<script src="{{asset('user-assets/js/gsap-custom.js')}}"></script>
+<script src="{{asset('user-assets/js/imageRevealHover.js')}}"></script>
+<script src="{{asset('user-assets/js/aat.min.js')}}"></script>
+<!-- Theme JS -->
+<script src="{{asset('user-assets/js/main.js')}}"></script>
